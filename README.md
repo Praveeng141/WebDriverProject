@@ -1,2 +1,0 @@
-# WebDriverProject
-Web elements activities
